@@ -1,4 +1,4 @@
-# Hi 👋, I'm Friederik Ferdinand (a.k.a. PixelPirate)
+# Hi 👋, I'm Friederik Ferdinand
 
 ![Profile Banner](Banner.jpg)
 
@@ -70,15 +70,14 @@ A The Graph subgraph + dashboard for on-chain analytics (token flows, liquidity,
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PixelPirate&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPirate&theme=dracula&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kobayashikaitoo&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobayashikaitoo&theme=dracula&layout=compact)
 
 ---
 
 ## 📫 Let's Build Together
 - 💼 [LinkedIn](https://linkedin.com/in/friederikferdinand)
 - 📧 friederikferdinand@gmail.com
-- 🌐 [Blog](https://pixelpirate-blog.com)
 
 If you want to collaborate, audit a contract, or brainstorm an idea — open an issue or DM me.
 
