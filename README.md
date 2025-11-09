@@ -1,4 +1,4 @@
-# Hi 👋, I'm Friederik Ferdinand
+<h1 align="center">Hi 👋, I'm Friederik Ferdinand</h1>
 
 ![Profile Banner](Banner.jpg)
 
