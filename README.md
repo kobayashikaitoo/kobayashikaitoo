@@ -75,6 +75,11 @@ A The Graph subgraph + dashboard for on-chain analytics (token flows, liquidity,
 
 ---
 
+## 🕛 WakaTime Stats
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KobayashiKaito&layout=compact&theme=tokyonight)](https://wakatime.com/@KobayashiKaito)
+
+---
+
 ## 📫 Let's Build Together
 - 💼 [LinkedIn](https://linkedin.com/in/friederikferdinand)
 - 📧 friederikferdinand@gmail.com
