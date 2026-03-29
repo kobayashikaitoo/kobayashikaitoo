@@ -1,7 +1,7 @@
 <h1 align="center">Friederik Ferdinand</h1>
 
 <p align="center">
-  <img src="Banner 1.png" alt="banner" />
+  <img src="Banner 3 (1).png" alt="banner" />
 </p>
 
 <p align="center">
