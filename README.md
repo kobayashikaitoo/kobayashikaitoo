@@ -50,6 +50,15 @@ Web3 developer focused on building secure and scalable decentralized application
 
 ##🕛 WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+Other        57 mins               ███████████████▓░░░░░░░░░   62.49 %
+QML          14 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+HTML         12 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+JSON         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+PHP          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
