@@ -43,13 +43,14 @@ Web3 developer focused on building secure and scalable decentralized application
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kobayashikaitoo&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kobayashikaitoo&theme=dracula&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=kobayashikaitoo&show_icons=true&theme=radical)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kobayashikaitoo&layout=compact&theme=dracula)
 
 --- 
 
 ##🕛 WakaTime Stats
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KobayashiKaito&layout=compact&theme=tokyonight)](https://wakatime.com/@KobayashiKaito)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## Contact
