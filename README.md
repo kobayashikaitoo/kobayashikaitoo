@@ -43,10 +43,11 @@ Web developer focused on building responsive, modern, and scalable web applicati
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          22 mins               ████████████████████░░░░░   80.11 %
-Python       5 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript   10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+PHP          9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+JavaScript   9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+SQL          9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+HTML         8 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
 ```
 
 <!--END_SECTION:waka-->
