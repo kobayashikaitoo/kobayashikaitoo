@@ -43,11 +43,11 @@ Web developer focused on building responsive, modern, and scalable web applicati
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    27 mins               █████████▓░░░░░░░░░░░░░░░   38.21 %
-JSON          13 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-Markdown      9 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-Other         6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Git Config    5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Markdown      9 mins                ███████▒░░░░░░░░░░░░░░░░░   29.34 %
+JSON          5 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+Git Config    4 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Image (png)   4 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+Other         3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
 ```
 
 <!--END_SECTION:waka-->
