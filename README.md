@@ -43,8 +43,8 @@ Web developer focused on building responsive, modern, and scalable web applicati
 <!--START_SECTION:waka-->
 
 ```txt
-HTML       23 mins               ███████████████████░░░░░░   76.03 %
-Markdown   7 mins                ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+HTML       52 mins               ██████████████████████░░░   87.95 %
+Markdown   7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
 ```
 
 <!--END_SECTION:waka-->
