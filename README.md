@@ -43,7 +43,11 @@ Web developer focused on building responsive, modern, and scalable web applicati
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   1 min                 █████████████████████████   100.00 %
+Java              19 mins               █████████████▓░░░░░░░░░░░   54.48 %
+XML               6 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+Java Properties   3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Kotlin            3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Dart              1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->
