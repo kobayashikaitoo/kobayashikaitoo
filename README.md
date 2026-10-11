@@ -43,10 +43,7 @@ Web developer focused on building responsive, modern, and scalable web applicati
 <!--START_SECTION:waka-->
 
 ```txt
-Godot Resource   11 mins               ████████████▓░░░░░░░░░░░░   50.84 %
-SQL              7 mins                ████████▓░░░░░░░░░░░░░░░░   34.66 %
-Python           1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-GDScript3        1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
