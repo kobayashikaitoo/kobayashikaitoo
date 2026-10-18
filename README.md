@@ -43,11 +43,11 @@ Web developer focused on building responsive, modern, and scalable web applicati
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          16 mins               ██████████████░░░░░░░░░░░   55.91 %
-Dart              8 mins                ███████▒░░░░░░░░░░░░░░░░░   29.61 %
-XML               2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-PHP               0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-HTML              0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Dart              23 mins               ███████████░░░░░░░░░░░░░░   44.65 %
+Markdown          16 mins               ███████▓░░░░░░░░░░░░░░░░░   30.71 %
+PHP               5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+HTML              4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+XML               2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
