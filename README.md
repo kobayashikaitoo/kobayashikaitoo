@@ -43,7 +43,8 @@ Web developer focused on building responsive, modern, and scalable web applicati
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)   30 mins               █████████████████████████   100.00 %
+Image (svg)   30 mins               █████████████████████████   99.61 %
+JavaScript    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
