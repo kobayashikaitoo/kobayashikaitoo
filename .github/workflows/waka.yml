@@ -11,6 +11,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: athul/waka-readme@master
+      - name: Verify WakaTime API access
+        id: wakatime
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          if [ -z "$WAKATIME_API_KEY" ]; then
+            echo "can_update=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::WAKATIME_API_KEY is not configured; skipping README update."
+            exit 0
+          fi
+
+          status_code="$(curl -sS -o /dev/null -w "%{http_code}" -u "${WAKATIME_API_KEY}:" "https://wakatime.com/api/v1/users/current/status_bar/today")"
+          if [ "$status_code" = "200" ]; then
+            echo "can_update=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "can_update=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::WakaTime API returned HTTP ${status_code}; skipping README update."
+          fi
+
+      - if: steps.wakatime.outputs.can_update == 'true'
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
